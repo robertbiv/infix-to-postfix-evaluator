@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/HW_5.dir/link.d CMakeFiles/HW_5.dir/calcimpl.cpp.o CMakeFiles/HW_5.dir/calctest.cpp.o -o HW_5
