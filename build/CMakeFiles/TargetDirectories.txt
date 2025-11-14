@@ -1,3 +1,0 @@
-/home/runner/work/infix-to-postfix-evaluator/infix-to-postfix-evaluator/build/CMakeFiles/HW_5.dir
-/home/runner/work/infix-to-postfix-evaluator/infix-to-postfix-evaluator/build/CMakeFiles/edit_cache.dir
-/home/runner/work/infix-to-postfix-evaluator/infix-to-postfix-evaluator/build/CMakeFiles/rebuild_cache.dir
